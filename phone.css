@@ -1,0 +1,33 @@
+
+
+
+#navbar{
+flex-direction: column;
+
+}
+#home{
+    height: 539px;
+    padding: 3px 0px;
+}
+
+#home::before{
+    height: 607px ;
+}
+
+
+#services{
+    flex-direction: column;
+}
+
+#services .box{
+    padding: 0px 105px;
+}
+
+#clients-item{
+    height: 100px;
+}
+
+#clients img{
+    height: 60px;
+    padding: 20px;
+}
